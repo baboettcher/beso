@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `BeSO`,
     description: `Everything you need to bring breathing, stretching,and observing.`,
-    author: `@aboettcher`,
+    author: `@aboettcher2`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
